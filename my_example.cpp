@@ -34,7 +34,7 @@ using namespace irr::video;
 using namespace irr::io;
 using namespace irr::gui;
 
-int second_main(int argc, char* argv[]) {
+int main(int argc, char* argv[]) {
     // Set path to Chrono data directory
     SetChronoDataPath(CHRONO_DATA_DIR);
     
