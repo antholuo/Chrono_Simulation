@@ -20,6 +20,9 @@
 #include "chrono/assets/ChColorAsset.h"
 #include "chrono_irrlicht/ChIrrApp.h"
 
+#include "chrono_models/hmmwv/HMMWV.h"
+#include <HMMWV_Vehicle.h>
+
 // Use the namespace of Chrono
 
 using namespace chrono;
