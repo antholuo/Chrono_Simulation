@@ -1,0 +1,3 @@
+[submodule "thirdparty/chrono"]
+	path = thirdparty/chrono
+	url = https://github.com/projectchrono/chrono
