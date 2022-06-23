@@ -1,0 +1,13 @@
+irrlicht-1.8.5/doc filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/examples filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/media filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/source filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/changes.txt filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/include filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/lib filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/readme.txt filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/tools filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/bin filter=lfs diff=lfs merge=lfs -text
+thrust-1.11.0/ filter=lfs diff=lfs merge=lfs -text
+irrlicht-1.8.5/ filter=lfs diff=lfs merge=lfs -text
+blaze-3.8/ filter=lfs diff=lfs merge=lfs -text
